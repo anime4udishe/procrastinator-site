@@ -2,7 +2,7 @@
   "name": "procrastinator-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anime4udishe.github.io",
+  "homepage": "https://anime4udishe.github.io/procrastinator-site",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
